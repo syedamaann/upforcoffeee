@@ -43,12 +43,6 @@ firebase.initializeApp(firebaseConfig);
 const joinUsFormDB = firebase.database().ref("joinUsForm");
 ```
 
-## Usage
-1. Clone or download the repository to your local machine.
-2. Open the `index.html` file in your preferred web browser.
-
-Feel free to explore the UpForCoffee Web App and pre-register to be part of a vibrant student community.
-
 ---
-
+Feel free to explore the UpForCoffee Web App and pre-register to be part of a vibrant student community.
 *UpForCoffee - Connecting Students, Fostering Friendships.*
