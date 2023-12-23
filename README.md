@@ -44,5 +44,5 @@ const joinUsFormDB = firebase.database().ref("joinUsForm");
 ```
 
 ---
-Feel free to explore the UpForCoffee Web App and pre-register to be part of a vibrant student community.
+
 *UpForCoffee - Connecting Students, Fostering Friendships.*
